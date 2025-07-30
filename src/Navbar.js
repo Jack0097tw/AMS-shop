@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <Link to="/">
-        <img src="/AMS logo2.png" alt="企業Logo導覽列" className="company-logo-nav" />
+        <img src={process.env.PUBLIC_URL + '/AMS logo2.png'} alt="企業Logo導覽列" className="company-logo-nav" />
       </Link>
       <ul className="nav-links">
         <li><Link to="/">Home</Link></li>

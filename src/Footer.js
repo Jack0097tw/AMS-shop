@@ -4,7 +4,7 @@ import './Home.css';
 function Footer() {
   return (
     <section className="footer footer-row">
-      <img src="/AMS logo1.png" alt="企業Logo頁尾" className="company-logo-footer" />
+      <img src={process.env.PUBLIC_URL + '/AMS logo1.png'} alt="企業Logo頁尾" className="company-logo-footer" />
       <div className="footer-info">
         <h2>專業汽車美容</h2>
         <ul>

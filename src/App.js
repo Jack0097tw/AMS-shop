@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Home from './Home';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import AboutPage from './AboutPage';
 import ProductDetail from './ProductDetail';
 import ProductsPage from './ProductsPage';
@@ -12,7 +12,7 @@ import CartPage from './CartPage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<AboutPage />} />
@@ -23,7 +23,7 @@ function App() {
         <Route path="/login" element={<LoginPage />} />
         <Route path="/cart" element={<CartPage />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
