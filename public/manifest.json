@@ -1,0 +1,25 @@
+{
+  "short_name": "AMS汽車美容",
+  "name": "AMS專業汽車美容",
+  "icons": [
+    {
+      "src": "AMS logo1.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "AMS logo2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "AMS logo1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
