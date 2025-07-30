@@ -7,7 +7,7 @@ import './Home.css';
 const products = [
   {
     name: '1',
-    img: process.env.PUBLIC_URL + '/all.jpg',
+    img: process.env.PUBLIC_URL + '/products_exp2.jpg',
   },
   {
     name: '2',
@@ -15,15 +15,27 @@ const products = [
   },
   {
     name: '3',
-    img: process.env.PUBLIC_URL + '/products_exp3.jpg',
+    img: process.env.PUBLIC_URL + '/products_exp2.jpg',
   },
   {
     name: '4',
-    img: process.env.PUBLIC_URL + '/products_exp4.jpg',
+    img: process.env.PUBLIC_URL + '/products_exp2.jpg',
   },
   {
     name: '5',
-    img: process.env.PUBLIC_URL + '/products_exp5.jpg',
+    img: process.env.PUBLIC_URL + '/products_exp2.jpg',
+  },
+  {
+    name: '6',
+    img: process.env.PUBLIC_URL + '/products_exp2.jpg',
+  },
+  {
+    name: '7',
+    img: process.env.PUBLIC_URL + '/products_exp2.jpg',
+  },
+  {
+    name: '8',
+    img: process.env.PUBLIC_URL + '/products_exp2.jpg',
   },
 ];
 function PortfolioPage() {

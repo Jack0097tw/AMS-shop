@@ -17,7 +17,7 @@ function ServicesPage() {
               draggable={false}
             />
           </div>
-          <h1>關於AMS</h1>
+          <h1>DIY小知識</h1>
           <p>我們擁有多年汽車美容經驗，提供專業洗車、打蠟、內裝清潔等全方位服務，讓您的愛車煥然一新。</p>
         </section>
       </div>

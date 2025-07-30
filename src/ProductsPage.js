@@ -35,6 +35,7 @@ const products = [
     price: 1350,
     img: process.env.PUBLIC_URL + '/products_exp5.jpg',
   },
+
 ];
 
 function ProductsPage() {
@@ -52,7 +53,7 @@ function ProductsPage() {
                   <img src={product.img} alt={product.name} />
                   <div className="quick-view">快速檢視</div>
                 </div>
-                <h3>{product.name}</h3>
+                <h2>{product.name}</h2>
                 <div className="product-price">${product.price}</div>
               </Link>
             ))}
@@ -65,7 +66,7 @@ function ProductsPage() {
                   <img src={product.img} alt={product.name} />
                   <div className="quick-view">快速檢視</div>
                 </div>
-                <h3>{product.name}</h3>
+                <h2>{product.name}</h2>
                 <div className="product-price">${product.price}</div>
               </Link>
             ))}

@@ -79,13 +79,13 @@ function Home() {
             </div>
         </div>
         <div className="services-img">
-            <img src={process.env.PUBLIC_URL + '/products_exp2.jpg'} alt="服務展示" />
+            <img src={process.env.PUBLIC_URL + '/products_exp3.jpg'} alt="服務展示" />
             <img src={process.env.PUBLIC_URL + '/products_exp4.jpg'} alt="服務展示" />
             <img src={process.env.PUBLIC_URL + '/service.jpg'} alt="服務展示" />
             <img src={process.env.PUBLIC_URL + '/service2.jpg'} alt="服務展示" />
             <img src={process.env.PUBLIC_URL + '/service3.jpg'} alt="服務展示" />
             <img src={process.env.PUBLIC_URL + '/service4.jpg'} alt="服務展示" />
-            <img src={process.env.PUBLIC_URL + '/service5.jpg'} alt="服務展示" />
+
           </div>
       </section>
 
