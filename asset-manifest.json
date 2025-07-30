@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AMS-shop/static/css/main.5f48da27.css",
+    "main.css": "/AMS-shop/static/css/main.61e17f23.css",
     "main.js": "/AMS-shop/static/js/main.db7af686.js",
     "static/js/453.4c180a43.chunk.js": "/AMS-shop/static/js/453.4c180a43.chunk.js",
     "static/media/background-1606050_1920.jpg": "/AMS-shop/static/media/background-1606050_1920.8ed9c397ac8af6c523a1.jpg",
     "index.html": "/AMS-shop/index.html",
-    "main.5f48da27.css.map": "/AMS-shop/static/css/main.5f48da27.css.map",
+    "main.61e17f23.css.map": "/AMS-shop/static/css/main.61e17f23.css.map",
     "main.db7af686.js.map": "/AMS-shop/static/js/main.db7af686.js.map",
     "453.4c180a43.chunk.js.map": "/AMS-shop/static/js/453.4c180a43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f48da27.css",
+    "static/css/main.61e17f23.css",
     "static/js/main.db7af686.js"
   ]
 }
